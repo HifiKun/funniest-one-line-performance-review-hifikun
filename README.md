@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e.svg)](https://make.fun/c/u-kiencx-funniest-one-line-performance-review-fa681c1e)
+[![rank](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/HifiKun/funniest-one-line-performance-review-hifikun/rank.svg)](https://make.fun/c/u-kiencx-funniest-one-line-performance-review-fa681c1e)
+[![reward](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/HifiKun/funniest-one-line-performance-review-hifikun/reward.svg)](https://make.fun/c/u-kiencx-funniest-one-line-performance-review-fa681c1e)
+
 # Funniest One-Line Performance Review
 
 Entry for the make.fun competition
